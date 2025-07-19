@@ -14,7 +14,7 @@ public class pro2 {
         // It's generally better practice to load API keys from environment variables
         // or a configuration file rather than hardcoding them directly in the source.
         // For this example, we'll keep it as is.
-        String apiKey = ""; 
+        String apiKey = "your api key"; 
         
         String requestBody = """
         {
